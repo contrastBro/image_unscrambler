@@ -8,4 +8,4 @@ hackit level generation source:
 https://github.com/HaschekSolutions/0xf.at/blob/master/data/levels/hackit36.php
 
 ## known issues
-- execution is rather slow, so make sure to block the setTimeout() ... or PR
+- execution is rather slow **.getImageData(..)**, so make sure to block the setTimeout() ... or PR
